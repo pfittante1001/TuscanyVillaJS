@@ -2,7 +2,7 @@
     background-color:#474e5d!important;
 }
 .nav-link{
-    color:white!important;
+    color:white;
     margin-right:10px;
     letter-spacing:2px;
 }
@@ -217,4 +217,8 @@ p.locimg {
     width:150px;
     padding-top:10px;
     opacity:.9;
+}
+p#villout.locp{
+    font-size:35px;
+    color:blue;
 }
